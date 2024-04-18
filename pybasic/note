@@ -1,0 +1,15 @@
+adding 1 : use  adding (a - b) instead of while (adding 1)
+palindrome: every letter should appear even number but only one letter can appear once.
+memorize 
+
+arithmetic progression (등차)
+an = a0 + (n-1)d
+Sn = (n(a0+an))/2
+
+geometric progression (등비)
+an = a0 * (r ** (n-1))
+Sn = (a0(1-r**n))/(1-r)
+
+hamilton path (모든 지점을 한번만 지나는 path구하는 알고리즘) (오일러 패스라고도 함)
+
+sum을 변수로 사용 금지
